@@ -1,2 +1,2 @@
-# seq2seq-pytorch
-implement seq2seq to learn pytorch
+# pytorch-tutorial
+Deep Learning with PyTorch: A 60 Minute Blitz
